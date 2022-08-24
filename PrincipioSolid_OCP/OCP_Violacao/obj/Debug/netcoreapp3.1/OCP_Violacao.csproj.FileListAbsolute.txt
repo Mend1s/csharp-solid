@@ -1,0 +1,13 @@
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\bin\Debug\netcoreapp3.1\OCP_Violacao.exe
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\bin\Debug\netcoreapp3.1\OCP_Violacao.deps.json
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\bin\Debug\netcoreapp3.1\OCP_Violacao.runtimeconfig.json
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\bin\Debug\netcoreapp3.1\OCP_Violacao.runtimeconfig.dev.json
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\bin\Debug\netcoreapp3.1\OCP_Violacao.dll
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\bin\Debug\netcoreapp3.1\OCP_Violacao.pdb
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\obj\Debug\netcoreapp3.1\OCP_Violacao.csprojAssemblyReference.cache
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\obj\Debug\netcoreapp3.1\OCP_Violacao.csproj.CoreCompileInputs.cache
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\obj\Debug\netcoreapp3.1\OCP_Violacao.AssemblyInfoInputs.cache
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\obj\Debug\netcoreapp3.1\OCP_Violacao.AssemblyInfo.cs
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\obj\Debug\netcoreapp3.1\OCP_Violacao.dll
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\obj\Debug\netcoreapp3.1\OCP_Violacao.pdb
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Violacao\obj\Debug\netcoreapp3.1\OCP_Violacao.genruntimeconfig.cache

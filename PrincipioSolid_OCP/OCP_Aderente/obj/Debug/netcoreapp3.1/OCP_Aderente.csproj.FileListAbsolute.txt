@@ -1,0 +1,13 @@
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\netcoreapp3.1\OCP_Aderente.exe
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\netcoreapp3.1\OCP_Aderente.deps.json
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\netcoreapp3.1\OCP_Aderente.runtimeconfig.json
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\netcoreapp3.1\OCP_Aderente.runtimeconfig.dev.json
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\netcoreapp3.1\OCP_Aderente.dll
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\netcoreapp3.1\OCP_Aderente.pdb
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\netcoreapp3.1\OCP_Aderente.csprojAssemblyReference.cache
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\netcoreapp3.1\OCP_Aderente.csproj.CoreCompileInputs.cache
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\netcoreapp3.1\OCP_Aderente.AssemblyInfoInputs.cache
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\netcoreapp3.1\OCP_Aderente.AssemblyInfo.cs
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\netcoreapp3.1\OCP_Aderente.dll
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\netcoreapp3.1\OCP_Aderente.pdb
+C:\_CShp2020\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\netcoreapp3.1\OCP_Aderente.genruntimeconfig.cache
