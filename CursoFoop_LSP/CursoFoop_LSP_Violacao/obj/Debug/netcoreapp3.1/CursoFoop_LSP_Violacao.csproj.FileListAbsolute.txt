@@ -1,0 +1,13 @@
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\bin\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.exe
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\bin\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.deps.json
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\bin\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.runtimeconfig.json
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\bin\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.runtimeconfig.dev.json
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\bin\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.dll
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\bin\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.pdb
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\obj\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.csprojAssemblyReference.cache
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\obj\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.csproj.CoreCompileInputs.cache
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\obj\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.AssemblyInfoInputs.cache
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\obj\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.AssemblyInfo.cs
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\obj\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.dll
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\obj\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.pdb
+C:\_xf_2020\Hierarquia\CursoFoop_LSP\CursoFoop_LSP_Violacao\obj\Debug\netcoreapp3.1\CursoFoop_LSP_Violacao.genruntimeconfig.cache
