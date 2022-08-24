@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoFoop_SRP_Violacao", "CursoFoop_SRP_Violacao\CursoFoop_SRP_Violacao.csproj", "{BA026738-0E5D-4A18-A1B0-6FDF1C8AB956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoFoop_SRP_Aderente", "CursoFoop_SRP_Aderente\CursoFoop_SRP_Aderente.csproj", "{FDD10C0D-64A1-45FF-B0E5-B83749D9FE56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA026738-0E5D-4A18-A1B0-6FDF1C8AB956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA026738-0E5D-4A18-A1B0-6FDF1C8AB956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA026738-0E5D-4A18-A1B0-6FDF1C8AB956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA026738-0E5D-4A18-A1B0-6FDF1C8AB956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD10C0D-64A1-45FF-B0E5-B83749D9FE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD10C0D-64A1-45FF-B0E5-B83749D9FE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD10C0D-64A1-45FF-B0E5-B83749D9FE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD10C0D-64A1-45FF-B0E5-B83749D9FE56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B272C6B-9284-4D93-990A-111765DCC2A2}
+	EndGlobalSection
+EndGlobal
