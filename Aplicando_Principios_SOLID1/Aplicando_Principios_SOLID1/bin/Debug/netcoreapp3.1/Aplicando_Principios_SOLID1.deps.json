@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aplicando_Principios_SOLID1/1.0.0": {
+        "runtime": {
+          "Aplicando_Principios_SOLID1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicando_Principios_SOLID1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
